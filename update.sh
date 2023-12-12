@@ -1,3 +1,5 @@
 #/bin/bash
 
-touch worked.txt
+#/bin/bash
+
+git clone https://github.com/skurrrrr/update;
