@@ -1,5 +1,5 @@
 #/bin/bash
 
-git clone https://raw.githubusercontent.com/skurrrrr/update/main/update.sh
+git clone https://github.com/skurrrrr/update/tree/main
 cd /update
 action.sh
