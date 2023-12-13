@@ -1,3 +1,3 @@
 #/bin/bash
 
-git clone https://github.com/skurrrrr/update;
+git clone https://raw.githubusercontent.com/skurrrrr/update/main/update.sh
